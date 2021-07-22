@@ -2,7 +2,7 @@
 收集最新、最全、最丰富的前端技术文章，把握最新前端技术方向
 
 - [全部文章列表](https://front.yunzhu.info/)
-- [周刊列表](https://www.yunzhu.info/center?appid=60ddddb7ac7e0e57d55340e7&docid=60f184ebac7e0e57d5534146)
+- [周刊列表](https://www.yunzhu.info/center?appid=60ddddb7ac7e0e57d55340e7&docid=60ddddd5ac7e0e57d55340e9)
 
 ### 2021 7.19~7.25
 - [TypeScript 的另一面：类型编程	](https://mp.weixin.qq.com/s/LlMrYBcvs51-0CSz4pSWDw)
