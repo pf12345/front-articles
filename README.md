@@ -8,6 +8,7 @@
 - [TypeScript 的另一面：类型编程	](https://mp.weixin.qq.com/s/LlMrYBcvs51-0CSz4pSWDw)
 - [让 JS 摆脱框架的束缚](https://mp.weixin.qq.com/s/n65x3duoeQAtQU_fH_dJDw)
 - [从 SWR 开始 — 一窥现代请求 hooks 设计模型](https://mp.weixin.qq.com/s/DFt129rgcrTJch1RcUqpXg)
+- [ECMAScript 双月报告：Realms 提案进入 Stage 3（2021/07）](https://mp.weixin.qq.com/s/WSmKjMSQG7t_9T6jKo0Q8w)
 
 
 ### 2021 7.12~7.18
