@@ -2,13 +2,18 @@
 收集最新、最全、最丰富的前端技术文章，把握最新前端技术方向
 
 - [全部文章列表](https://front.yunzhu.info/)
-- [周刊列表](https://www.yunzhu.info/center?appid=60ddddb7ac7e0e57d55340e7&docid=60ddddd5ac7e0e57d55340e9)
+- [前端精选周刊](https://www.yunzhu.info/center?appid=60ddddb7ac7e0e57d55340e7&docid=60ddddd5ac7e0e57d55340e9)
 
 ### 2021 7.19~7.25
+- [玉伯：前端的现状之痛及未来趋势](https://www.infoq.cn/article/GOVeqCj4WL30dG6dBerw)
+- [ECMAScript 双月报告：Realms 提案进入 Stage 3（2021/07）](https://mp.weixin.qq.com/s/WSmKjMSQG7t_9T6jKo0Q8w)
+= [如何搭建适合自己团队的构建部署平台](https://juejin.cn/post/6987140782595506189)
+- [手写系列-实现一个铂金段位的 React](https://mp.weixin.qq.com/s/C4pjEzYPZocRnJOaF1q0Jg)
 - [TypeScript 的另一面：类型编程	](https://mp.weixin.qq.com/s/LlMrYBcvs51-0CSz4pSWDw)
 - [让 JS 摆脱框架的束缚](https://mp.weixin.qq.com/s/n65x3duoeQAtQU_fH_dJDw)
 - [从 SWR 开始 — 一窥现代请求 hooks 设计模型](https://mp.weixin.qq.com/s/DFt129rgcrTJch1RcUqpXg)
-- [ECMAScript 双月报告：Realms 提案进入 Stage 3（2021/07）](https://mp.weixin.qq.com/s/WSmKjMSQG7t_9T6jKo0Q8w)
+
+[线上版本点击阅读](https://front.yunzhu.info/week?s=1626624000000)
 
 
 ### 2021 7.12~7.18
