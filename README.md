@@ -4,6 +4,13 @@
 - [全部文章列表](https://front.yunzhu.info/)
 - [前端精选周刊](https://www.yunzhu.info/center?appid=60ddddb7ac7e0e57d55340e7&docid=60ddddd5ac7e0e57d55340e9)
 
+### 2021 7.26~8.1
+- [Chrome 92 新增 at 和 randomUUID 方法，Canvas 支持 Display P3 色域](https://mp.weixin.qq.com/s/cd-hoLA2nfAX23jmv7yzLA)
+- [如何快速打造一款技术产品](https://mp.weixin.qq.com/s/Wa8RKp3s5zwsQqHkHdILZQ)
+- [几年后的JavaScript会是什么样的？来看看这些有趣的ECMA提案（stage1/2/3）](https://mp.weixin.qq.com/s/wA-ApOQGDXXTR_jIROyExg)
+- [React Native 迎来重大架构升级，性能将大幅提升](https://www.infoq.cn/article/tXSiQ1wOgK6il4BNQmJA)
+- [Android / iOS Webview 容器下 JSBridge SDK 原理浅析 —— 前端视角](https://mp.weixin.qq.com/s/H4ICaFhiJZE5ZUNEZj_U8A)
+
 ### 2021 7.19~7.25
 - [玉伯：前端的现状之痛及未来趋势](https://www.infoq.cn/article/GOVeqCj4WL30dG6dBerw)
 - [ECMAScript 双月报告：Realms 提案进入 Stage 3（2021/07）](https://mp.weixin.qq.com/s/WSmKjMSQG7t_9T6jKo0Q8w)
