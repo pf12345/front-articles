@@ -10,6 +10,7 @@
 - [几年后的JavaScript会是什么样的？来看看这些有趣的ECMA提案（stage1/2/3）](https://mp.weixin.qq.com/s/wA-ApOQGDXXTR_jIROyExg)
 - [React Native 迎来重大架构升级，性能将大幅提升](https://www.infoq.cn/article/tXSiQ1wOgK6il4BNQmJA)
 - [Android / iOS Webview 容器下 JSBridge SDK 原理浅析 —— 前端视角](https://mp.weixin.qq.com/s/H4ICaFhiJZE5ZUNEZj_U8A)
+[线上版本点击阅读](https://front.yunzhu.info/week?s=1627228800000)
 
 ### 2021 7.19~7.25
 - [玉伯：前端的现状之痛及未来趋势](https://www.infoq.cn/article/GOVeqCj4WL30dG6dBerw)
