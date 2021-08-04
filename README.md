@@ -4,6 +4,13 @@
 - [全部文章列表](https://front.yunzhu.info/)
 - [前端精选周刊](https://www.yunzhu.info/center?appid=60ddddb7ac7e0e57d55340e7&docid=60ddddd5ac7e0e57d55340e9)
 
+### 2021 8.2~8.8
+- [Chromium 内核 Layout 模块学习](https://mp.weixin.qq.com/s/UYzAWkCuIPh1Z5yoqGo9nA)
+- [从 Prompt 来看微前端路由劫持原理](https://zhuanlan.zhihu.com/p/394624654)
+- [Next.js 是怎么做预渲染的](https://juejin.cn/post/6991397899317805064/)
+- [Jamstack ，你真的了解它吗？](https://mp.weixin.qq.com/s/bVkK2jJAuZmShYk4318kMQ)
+- [Jamstack，下一代Web建站技术栈？](https://zhuanlan.zhihu.com/p/281085404)
+
 ### 2021 7.26~8.1
 - [Chrome 92 新增 at 和 randomUUID 方法，Canvas 支持 Display P3 色域](https://mp.weixin.qq.com/s/cd-hoLA2nfAX23jmv7yzLA)
 - [如何快速打造一款技术产品](https://mp.weixin.qq.com/s/Wa8RKp3s5zwsQqHkHdILZQ)
