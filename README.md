@@ -9,7 +9,10 @@
 - [从 Prompt 来看微前端路由劫持原理](https://zhuanlan.zhihu.com/p/394624654)
 - [Next.js 是怎么做预渲染的](https://juejin.cn/post/6991397899317805064/)
 - [Jamstack ，你真的了解它吗？](https://mp.weixin.qq.com/s/bVkK2jJAuZmShYk4318kMQ)
-- [Jamstack，下一代Web建站技术栈？](https://zhuanlan.zhihu.com/p/281085404)
+- [从 Prompt 来看微前端路由劫持原理](https://zhuanlan.zhihu.com/p/394624654)
+- [TypeScript 4.4 beta 版本发布](https://www.infoq.cn/article/CKTNFBILCvOFZDNuAkD9)
+
+[线上版本点击阅读](https://front.yunzhu.info/week?s=1627862400000)
 
 ### 2021 7.26~8.1
 - [Chrome 92 新增 at 和 randomUUID 方法，Canvas 支持 Display P3 色域](https://mp.weixin.qq.com/s/cd-hoLA2nfAX23jmv7yzLA)
