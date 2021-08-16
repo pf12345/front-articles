@@ -4,6 +4,17 @@
 - [全部文章列表](https://front.yunzhu.info/)
 - [前端精选周刊](https://www.yunzhu.info/center?appid=60ddddb7ac7e0e57d55340e7&docid=60ddddd5ac7e0e57d55340e9)
 
+### 2021 8.9~8.15
+- [企业级应用搭建平台是如何设计资产体系的？](https://mp.weixin.qq.com/s/rihJS2GCcQ3wzODw7PHTaA)
+- [从前端视角看浏览器隐身模式](https://mp.weixin.qq.com/s/rh8EJzK25KH3KejYzTPUsw)
+- [JavaScript是如何工作的：网络层探秘及如何提高其性能和安全性](https://mp.weixin.qq.com/s/1i0J4DmZQo1nsT0jKcfzZw)
+- [程序员是要专精，还是要广度？](https://mp.weixin.qq.com/s/kP2JMtSL0fZIuQ9_2voBwA)
+- [关于 JavaScript 未来的猜想](https://mp.weixin.qq.com/s/aZLzbYNp7TOdil3FccUlxw)
+- [开源框架 Vue 3.2 正式发布!](https://juejin.cn/news/6994971777164116004)
+- [Firefox 91.0 正式发布](https://juejin.cn/news/6995048794630914061)
+- [大前端工程提效分享与总结](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247487069&idx=1&sn=1a4e36b41990dfb4eb904afe57e23de2&scene=21#wechat_redirect)
+
+[线上版本点击阅读](https://front.yunzhu.info/week?s=1628467200000)
 ### 2021 8.2~8.8
 - [Chromium 内核 Layout 模块学习](https://mp.weixin.qq.com/s/UYzAWkCuIPh1Z5yoqGo9nA)
 - [从 Prompt 来看微前端路由劫持原理](https://zhuanlan.zhihu.com/p/394624654)
