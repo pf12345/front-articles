@@ -4,6 +4,17 @@
 - [全部文章列表](https://front.yunzhu.info/)
 - [前端精选周刊](https://www.yunzhu.info/center?appid=60ddddb7ac7e0e57d55340e7&docid=60ddddd5ac7e0e57d55340e9)
 
+### 2021 8.21~8.27
+- [Electron / Chromium 屏幕录制](https://mp.weixin.qq.com/s/w8bXmcwzJjZ2WM2sclXP8A)
+- [浏览器应该使用所有的可用内存吗？](https://www.infoq.cn/article/o29jR1Lrcx3tBK7aJwkG)
+- [Vue 3.2 发布了，那尤雨溪是怎么发布 Vue.js 的？](https://juejin.cn/post/6997943192851054606)
+- [居然可以用 js 写 PPT？](https://mp.weixin.qq.com/s/xoHMvqg_tThgSjdEtZ5ahQ)
+- [又一个前端框架 Solid ？性能直逼原生 JS ？](https://mp.weixin.qq.com/s/9GV9_nenlrEC6NfWs57TRg)
+- [深入解析基于 Flutter 的 Web 渲染引擎「北海 Kraken 」技术原理](https://mp.weixin.qq.com/s/ZTvBHdOX9hUUiVTU02A61Q)
+- [Why React Needs Keys, Why It Matters](https://mp.weixin.qq.com/s/JncbijvCOweoji1sIHI1SQ)
+
+[线上版本点击阅读](https://front.yunzhu.info/week?s=1629504000000)
+
 ### 2021 8.9~8.15
 - [企业级应用搭建平台是如何设计资产体系的？](https://mp.weixin.qq.com/s/rihJS2GCcQ3wzODw7PHTaA)
 - [从前端视角看浏览器隐身模式](https://mp.weixin.qq.com/s/rh8EJzK25KH3KejYzTPUsw)
