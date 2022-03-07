@@ -4,6 +4,12 @@
 - [全部文章列表](https://front.yunzhu.info/)
 - [前端精选周刊](https://www.yunzhu.info/center?appid=60ddddb7ac7e0e57d55340e7&docid=60ddddd5ac7e0e57d55340e9)
 
+### 2022.02
+- [Akasha：基于以太坊和IPFS的社交网络](https://blog.csdn.net/shangsongwww/article/details/90111431)
+- [Awesome IPFS](https://wiki.learnblockchain.cn/ipfs/readme.html)
+- [定义web3 技术栈](https://learnblockchain.cn/article/3390)
+- [2022前端，推荐7款值得深入学习的“👑新贵前端库”!](https://juejin.cn/post/7051598110316822542)
+
 ### 2021.08
 - [Electron / Chromium 屏幕录制](https://mp.weixin.qq.com/s/w8bXmcwzJjZ2WM2sclXP8A)
 - [浏览器应该使用所有的可用内存吗？](https://www.infoq.cn/article/o29jR1Lrcx3tBK7aJwkG)
