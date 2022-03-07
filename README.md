@@ -2,9 +2,9 @@
 收集最新、最全、最丰富的前端技术文章，把握最新前端技术方向
 
 - [全部文章列表](https://front.yunzhu.info/)
-- [前端精选周刊](https://www.yunzhu.info/center?appid=60ddddb7ac7e0e57d55340e7&docid=60ddddd5ac7e0e57d55340e9)
 
 ### 2022.03
+- [来自未来，2022 年的前端人都在做什么?](https://mp.weixin.qq.com/s/triP_hXILSWq37DIGz4VNg)
 - [WebAssembly 2021 年回顾与 2022 年展望](https://mp.weixin.qq.com/s/1ZW8_XW1yqqSeBAAYWNUdg)
 - [一文看懂云原生时代 DevOps 如何选型](https://mp.weixin.qq.com/s/yPeRriDT-miiLoJdY-aY8Q)
 
