@@ -4,7 +4,7 @@
 - [全部文章列表](https://front.yunzhu.info/)
 - [前端精选周刊](https://www.yunzhu.info/center?appid=60ddddb7ac7e0e57d55340e7&docid=60ddddd5ac7e0e57d55340e9)
 
-### 2021 8.21~8.27
+### 2021.08
 - [Electron / Chromium 屏幕录制](https://mp.weixin.qq.com/s/w8bXmcwzJjZ2WM2sclXP8A)
 - [浏览器应该使用所有的可用内存吗？](https://www.infoq.cn/article/o29jR1Lrcx3tBK7aJwkG)
 - [Vue 3.2 发布了，那尤雨溪是怎么发布 Vue.js 的？](https://juejin.cn/post/6997943192851054606)
@@ -15,7 +15,6 @@
 
 [线上版本点击阅读](https://front.yunzhu.info/week?s=1629504000000)
 
-### 2021 8.9~8.15
 - [企业级应用搭建平台是如何设计资产体系的？](https://mp.weixin.qq.com/s/rihJS2GCcQ3wzODw7PHTaA)
 - [从前端视角看浏览器隐身模式](https://mp.weixin.qq.com/s/rh8EJzK25KH3KejYzTPUsw)
 - [JavaScript是如何工作的：网络层探秘及如何提高其性能和安全性](https://mp.weixin.qq.com/s/1i0J4DmZQo1nsT0jKcfzZw)
@@ -26,7 +25,7 @@
 - [大前端工程提效分享与总结](https://mp.weixin.qq.com/s?__biz=MzkxNTIwMzU5OQ==&mid=2247487069&idx=1&sn=1a4e36b41990dfb4eb904afe57e23de2&scene=21#wechat_redirect)
 
 [线上版本点击阅读](https://front.yunzhu.info/week?s=1628467200000)
-### 2021 8.2~8.8
+
 - [Chromium 内核 Layout 模块学习](https://mp.weixin.qq.com/s/UYzAWkCuIPh1Z5yoqGo9nA)
 - [从 Prompt 来看微前端路由劫持原理](https://zhuanlan.zhihu.com/p/394624654)
 - [Next.js 是怎么做预渲染的](https://juejin.cn/post/6991397899317805064/)
@@ -36,7 +35,7 @@
 
 [线上版本点击阅读](https://front.yunzhu.info/week?s=1627862400000)
 
-### 2021 7.26~8.1
+### 2021 07
 - [Chrome 92 新增 at 和 randomUUID 方法，Canvas 支持 Display P3 色域](https://mp.weixin.qq.com/s/cd-hoLA2nfAX23jmv7yzLA)
 - [如何快速打造一款技术产品](https://mp.weixin.qq.com/s/Wa8RKp3s5zwsQqHkHdILZQ)
 - [几年后的JavaScript会是什么样的？来看看这些有趣的ECMA提案（stage1/2/3）](https://mp.weixin.qq.com/s/wA-ApOQGDXXTR_jIROyExg)
@@ -45,7 +44,6 @@
 
 [线上版本点击阅读](https://front.yunzhu.info/week?s=1627228800000)
 
-### 2021 7.19~7.25
 - [玉伯：前端的现状之痛及未来趋势](https://www.infoq.cn/article/GOVeqCj4WL30dG6dBerw)
 - [ECMAScript 双月报告：Realms 提案进入 Stage 3（2021/07）](https://mp.weixin.qq.com/s/WSmKjMSQG7t_9T6jKo0Q8w)
 = [如何搭建适合自己团队的构建部署平台](https://juejin.cn/post/6987140782595506189)
@@ -56,8 +54,6 @@
 
 [线上版本点击阅读](https://front.yunzhu.info/week?s=1626624000000)
 
-
-### 2021 7.12~7.18
 - [W3C发布ARIA in HTML候选推荐标准	](https://mp.weixin.qq.com/s?__biz=MzA3OTY5NDI0OA==&mid=2247484991&idx=1&sn=72906c8e84ff39d707e60a9be9070d2b&scene=21#wechat_redirect)
 - [几年后的 JavaScript 会是什么样子？	](https://mp.weixin.qq.com/s/seKHdVszEgyziB8eW0PObA	)
 - [Slate 架构分析与总结	](https://mp.weixin.qq.com/s/yx6eOcCX-dQlv-dNvy6aSA	)
@@ -67,7 +63,6 @@
 
 [线上版本点击阅读](https://front.yunzhu.info/week?s=1626019200000)
 
-### 2021 7.06~7.11
 - [DevOps发布策略简介](https://mp.weixin.qq.com/s/FgQgg9wANAvzNyJ4VmFmTQ)
 - [WebIM原理解析](https://mp.weixin.qq.com/s/IGTirxb6Cg7c_uMrHyvhHw)
 - [字节跳动基于 Serverless 的前端研发模式升级](https://mp.weixin.qq.com/s?__biz=MzkxNDIzNTg4MA==&mid=2247484487&idx=1&sn=dbe799430791a4914b08e510c10a676a&scene=21#wechat_redirect)
@@ -79,7 +74,7 @@
 
 [线上版本点击阅读](https://front.yunzhu.info/week?s=1625414400000)
 
-### 2021 6.28~7.03
+### 2021 06
 - [Vite 特性和部分源码解析](https://juejin.cn/post/6979716166545571871)
 - [前端页面双向滚动方案](https://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&mid=2650431946&idx=1&sn=7beef3ca4b18f783e32d99b5cd3ab94e&scene=21#wechat_redirect)
 - [抽象泄漏（Leaky Abstractions）](https://mp.weixin.qq.com/s/OXCBORheAx99o3fS-ZfUdg)
@@ -95,7 +90,6 @@
 
 [线上版本点击阅读](https://front.yunzhu.info/week?s=1624809600000)
 
-### 2021 6.22~6.27
 - [ECMAScript 2021 （ES12）通过，正式写入 ECMAScript 标准](https://juejin.cn/news/6977409944416944158)
 - [Js是怎样运行起来的？](https://mp.weixin.qq.com/s/3ROdZZ_xTtl6B5ii4ha46w)
 - [多媒体前端技术入门指南](https://mp.weixin.qq.com/s/QTpxbWO3RFNj6QqQJxDMZg)
