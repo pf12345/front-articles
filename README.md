@@ -4,6 +4,7 @@
 - [全部文章列表](https://web.yunzhu.info/front-article/)
 
 ### 2022.03
+- [深入浅出前端监控](https://mp.weixin.qq.com/s/I9tTlYjKmnfrpyc6hibY1Q)
 - [阿里低代码引擎LowCodeEngine正式开源！](https://mp.weixin.qq.com/s/rQ-X9OBFRvhI16KrWwIT6w)
 - [阿里 & 蚂蚁自研 IDE 研发框架 OpenSumi 正式开源](https://mp.weixin.qq.com/s/MQqd4OlYRMX-eC4O4rrt5A)
 - [来自未来，2022 年的前端人都在做什么?](https://mp.weixin.qq.com/s/triP_hXILSWq37DIGz4VNg)
