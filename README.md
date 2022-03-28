@@ -1,7 +1,7 @@
 # front-articles
 收集最新、最全、最丰富的前端技术文章，把握最新前端技术方向
 
-- [全部文章列表](https://front.yunzhu.info/)
+- [全部文章列表](https://web.yunzhu.info/front-article/)
 
 ### 2022.03
 - [阿里 & 蚂蚁自研 IDE 研发框架 OpenSumi 正式开源](https://mp.weixin.qq.com/s/MQqd4OlYRMX-eC4O4rrt5A)
