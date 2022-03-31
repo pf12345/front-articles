@@ -4,6 +4,7 @@
 - [全部文章列表](https://web.yunzhu.info/front-article/)
 
 ### 2022.03
+- [Chrome 100支持多屏应用了！](https://mp.weixin.qq.com/s/DzpSn8VTfGhF-rN89E158A)
 - [网易云音乐低代码体系建设思考与实践](https://mp.weixin.qq.com/s/9yo-Au3wwsWErBJfFjhxUg)
 - [50 多个提高前端人效率的工具、网站和书籍整理](https://juejin.cn/post/7079447275755274254)
 - [深入浅出前端监控](https://mp.weixin.qq.com/s/I9tTlYjKmnfrpyc6hibY1Q)
