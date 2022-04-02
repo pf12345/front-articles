@@ -3,6 +3,9 @@
 
 - [全部文章列表](https://web.yunzhu.info/front-article/)
 
+### 2022.04
+- [Web3.0，「激发创造」的时代](https://mp.weixin.qq.com/s?__biz=Mzg3OTYwMjcxMA==&mid=2247487090&idx=1&sn=c8e895efa47b14d164495f70c7ab18d3&scene=21#wechat_redirect)
+
 ### 2022.03
 - [Chrome 100支持多屏应用了！](https://mp.weixin.qq.com/s/DzpSn8VTfGhF-rN89E158A)
 - [网易云音乐低代码体系建设思考与实践](https://mp.weixin.qq.com/s/9yo-Au3wwsWErBJfFjhxUg)
