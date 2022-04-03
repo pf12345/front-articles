@@ -4,6 +4,7 @@
 - [全部文章列表](https://web.yunzhu.info/front-article/)
 
 ### 2022.04
+- [React 18 发布](https://www.infoq.cn/news/bFcMG2yN9RDkd2smS1wQ)
 - [Web3.0，「激发创造」的时代](https://mp.weixin.qq.com/s?__biz=Mzg3OTYwMjcxMA==&mid=2247487090&idx=1&sn=c8e895efa47b14d164495f70c7ab18d3&scene=21#wechat_redirect)
 
 ### 2022.03
