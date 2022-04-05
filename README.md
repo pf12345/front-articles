@@ -4,6 +4,7 @@
 - [全部文章列表](https://web.yunzhu.info/front-article/)
 
 ### 2022.04
+- [你应该了解的 ECMAScript 函数操作符相关提案的最新进展](https://mp.weixin.qq.com/s/FQiHCs0o8dJF3PSIJVwcXQ)
 - [使用跨端解决方案Rax编写鸿蒙应用](https://mp.weixin.qq.com/s/9N1bPmEbGzueXgooHBXDVA)
 - [React 18 发布](https://www.infoq.cn/news/bFcMG2yN9RDkd2smS1wQ)
 - [Web3.0，「激发创造」的时代](https://mp.weixin.qq.com/s?__biz=Mzg3OTYwMjcxMA==&mid=2247487090&idx=1&sn=c8e895efa47b14d164495f70c7ab18d3&scene=21#wechat_redirect)
