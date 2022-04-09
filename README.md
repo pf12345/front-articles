@@ -4,6 +4,8 @@
 - [全部文章列表](https://web.yunzhu.info/front-article/)
 
 ### 2022.04
+- [Web 框架的替代方案](https://mp.weixin.qq.com/s/_eDFlWBJHxf4oar6Fpye2Q)
+- [关于依赖管理的真相 — 前端包管理器探究](https://mp.weixin.qq.com/s/3fI3yfG98SWatz4c0eG5Rg)
 - [你应该了解的 ECMAScript 函数操作符相关提案的最新进展](https://mp.weixin.qq.com/s/FQiHCs0o8dJF3PSIJVwcXQ)
 - [使用跨端解决方案Rax编写鸿蒙应用](https://mp.weixin.qq.com/s/9N1bPmEbGzueXgooHBXDVA)
 - [React 18 发布](https://www.infoq.cn/news/bFcMG2yN9RDkd2smS1wQ)
