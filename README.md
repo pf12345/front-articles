@@ -4,6 +4,7 @@
 - [全部文章列表](https://web.yunzhu.info/front-article/)
 
 ### 2022.04
+- [磁贴布局在钉钉宜搭报表设计引擎中的实现](https://mp.weixin.qq.com/s/PSTut5ahAB8nlJ9kBpBaxw)
 - [Web 框架的替代方案](https://mp.weixin.qq.com/s/_eDFlWBJHxf4oar6Fpye2Q)
 - [关于依赖管理的真相 — 前端包管理器探究](https://mp.weixin.qq.com/s/3fI3yfG98SWatz4c0eG5Rg)
 - [你应该了解的 ECMAScript 函数操作符相关提案的最新进展](https://mp.weixin.qq.com/s/FQiHCs0o8dJF3PSIJVwcXQ)
