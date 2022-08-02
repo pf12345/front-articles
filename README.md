@@ -1,8 +1,5 @@
 # front-articles
-收集最新、最全、最丰富的前端技术文章，把握最新前端技术方向
-
-- [全部文章列表](https://web.yunzhu.info/front-article/)
-
+收集最新、最全、最丰富的前端技术文章，把握最新前端技术方向，[全部文章列表](https://web.yunzhu.info/front-article/)
 
 - [无代码生产新模式探索](https://mp.weixin.qq.com/s/gy7fZj65ohL0RRstgBi-nQ)
 - [Web3 全栈指南](https://mp.weixin.qq.com/s/g_ObaqgCuyJIg7VOkyX9Ew)
